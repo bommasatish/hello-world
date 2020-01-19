@@ -2,3 +2,5 @@ Welcome to Hello world Java class
 class and the required methods are implimented in this class
 if any one want to use they cam
 test save
+
+variables
